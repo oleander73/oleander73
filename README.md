@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oleander73
 - 👀 I’m interested in reading, drawing, video games, and music.
-- 🌱 I’m currently learning HTML, Javascript, JSON, SQL, VBA and PHP.
-- 📫 How to reach me (By email!)
+- 🌱 I’m currently learning HTML, CSS, Javascript, JSON, SQL, VBA and PHP.
+- 📫 How to reach me (Comment on my projects!)
 - 😄 Pronouns: She/Them
 - ⚡ Fun fact: I have a second dan black belt in taekwondo.
 
